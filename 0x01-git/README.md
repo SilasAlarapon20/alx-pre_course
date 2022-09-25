@@ -1,5 +1,6 @@
-My first readme
-This repository is based on grit project from ALX Software Engineering course. It comprises of the following tasks:
+The name of this project is GIT.
+
+This repository is based on Git project from ALX Software Engineering course. It comprises of the following tasks:
 
 **Create and setup your Git and GitHub account**
 
